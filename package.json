@@ -1,0 +1,17 @@
+{
+  "name": "snomblib",
+  "collaborators": [
+    "Martin Fiers <mfiers+snomb@gmail.com>"
+  ],
+  "description": "snakes + bombing = snomb",
+  "version": "0.7.0",
+  "license": "To be decided",
+  "files": [
+    "snomblib_bg.wasm",
+    "snomblib.js",
+    "snomblib.d.ts"
+  ],
+  "module": "snomblib.js",
+  "types": "snomblib.d.ts",
+  "sideEffects": false
+}
